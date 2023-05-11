@@ -1,7 +1,15 @@
 name = "VKCCompCLI"
 uuid = "6b8c7d1c-8022-4b63-8c14-85314cd437a4"
 authors = ["Kevin Bonham", "PhD <kbonham@wellesley.edu> and contributors"]
-version = "1.0.0-DEV"
+version = "0.1.0"
+
+[deps]
+Comonicon = "863f3e99-da2a-4334-8734-de3dacbe5542"
+LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+MiniLoggers = "93f3dd0f-005d-4452-894a-a31841fa4078"
+QuickMenus = "2230646a-bae9-43e2-a071-fff97e6a4342"
+VKCComputing = "329a1d7f-a79a-43b8-8671-feb503123859"
 
 [compat]
 julia = "1.7"
+QuickMenus = "0.1.1"
