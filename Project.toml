@@ -1,0 +1,7 @@
+name = "VKCCompCLI"
+uuid = "6b8c7d1c-8022-4b63-8c14-85314cd437a4"
+authors = ["Kevin Bonham", "PhD <kbonham@wellesley.edu> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.7"
