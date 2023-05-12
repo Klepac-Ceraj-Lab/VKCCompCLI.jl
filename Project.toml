@@ -11,5 +11,6 @@ QuickMenus = "2230646a-bae9-43e2-a071-fff97e6a4342"
 VKCComputing = "329a1d7f-a79a-43b8-8671-feb503123859"
 
 [compat]
-julia = "1.7"
+MiniLoggers = "0.5"
 QuickMenus = "0.1.1"
+julia = "1.7"
